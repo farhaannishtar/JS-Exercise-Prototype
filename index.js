@@ -108,12 +108,16 @@ console.log(arlo);
 /* 
   TASK 4
   In your own words explain the four principles for the "this" keyword below:
-  1. 
-  2. 
+  1. There is global scope for the 'this' keyword (window/global binding) If no other this rules apply to 'this'
+
+  2. Implicit binding. dot syntax. Most popular. Context within an object creation or constructor function
+  
   3. 
+  
   4. 
 */
 
+// Is JavaScript basically the window object? 
 
 ///////// END OF CHALLENGE /////////
 
