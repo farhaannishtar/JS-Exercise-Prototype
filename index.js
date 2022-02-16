@@ -112,12 +112,11 @@ console.log(arlo);
 
   2. Implicit binding. dot syntax. Most popular. Context within an object creation or constructor function
   
-  3. 
+  3. Explicit Binding 
   
-  4. 
+  4. New binding
 */
 
-// Is JavaScript basically the window object? 
 
 ///////// END OF CHALLENGE /////////
 
